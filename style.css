@@ -1,0 +1,88 @@
+body
+{
+ margin:0px;
+}
+.logopic{
+   margin:0px;
+  background-color:gray;
+  height:175px;
+  width:125px;
+  position:relative;
+  left:20px;
+ 
+  
+}
+.name{
+   margin:0px;
+  width:75%;
+  font-family:Comic Sans MS;
+  background:#609966;
+  font-size:50px;
+  position:relative;
+  bottom:130px;
+  left:200px;
+  margin-top:0px;
+}
+.discr{
+   margin:0px;
+  font-family:Comic Sans MS;
+  font-size:20px;
+  position:relative;
+  bottom:130px;
+  left:200px;
+  margin-top:0px;
+}
+hr{
+  margin:0px;
+}
+hr{
+  position:relative;
+  bottom:100px;
+  left:500px;
+  border-top:10px dotted gray;
+  width:10%;
+}
+table,td{
+  border:1px solid white;
+}
+table,th{
+  background-color:#DFA67B;
+}
+table{
+  background-color:#FFD966;
+  font-size:35px;
+  font-family:Comic Sans MS;
+  position:relative;
+  left:380px;
+  bottom:300px;
+}
+.mid{
+  position:relative;
+  top:200px;
+}
+.skills{
+  height:20px;  
+  background-color:#F8CBA6;
+  font-size:40px;
+   font-family:Comic Sans MS;
+  display:inline;
+  position:relative;
+  top:70px;
+  left:505px;
+}
+.skl-det{
+   position:relative;
+  top:245px;
+  left:270px;
+   background-color:#F8CBA6;
+  font-size:40px;
+   font-family:Comic Sans MS;
+  display:inline-block;
+}
+img{
+  height:100px;
+  width:100px;
+  position:relative;
+  top:20px;
+  left:10px;
+}
