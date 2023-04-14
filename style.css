@@ -3,8 +3,9 @@ body
  margin:0px;
 }
 .logo{
-    height:10px;
-    width:10px;
+    height:5px;
+    width:7px;
+    border-color:white;
 }
 .logopic{
    margin:0px;
